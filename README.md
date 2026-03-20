@@ -7,3 +7,6 @@
 - 😄 Pronomes: ele/dele 
 - ⚡ curiosidades: Estudo na etecvav!
 
+<div align = center>
+  <img src="https://raw.githubusercontent.com/rafael-dev24/rafael-dev24/output/snake.svg" alt="Snake animation" />
+</div>
