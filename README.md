@@ -59,7 +59,8 @@
     width="30px"
     style="padding-right: 10px;"
     src="https://univali-lite.github.io/Portugol-Studio/assets/img/tree_icon.svg"
-  />
+  /><br>
+  
 ### 📊 Estatísticas
 
 <p>
