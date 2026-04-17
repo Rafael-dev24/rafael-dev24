@@ -7,7 +7,7 @@
 - 😄 Pronomes: ele/dele 
 - ⚡ curiosidades: Estudo na etecvav!
 
-  <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
+  <a href="https://github.com/rafael-dev24?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
