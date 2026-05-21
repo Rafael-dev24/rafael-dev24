@@ -1,12 +1,11 @@
 ## Olá!👋 Eu sou Rafael Dantas, tenho 15 anos e estudo programação na etecvav!
 
 
-
-# 💫 About Me:
+# 💫 Sobre mim:
 - 🔭 Hoje eu trabalho: com nada<br>- 🌱 Estou aprendendo: html, css, sql (banco de dados em geral), portugol e c++<br>- 😄 Pronomes: ele/dele<br>- ⚡ curiosidades: faço curso de informática para internet na escola técnica da etecvav!
 
 
-## 🌐 Socials:
+## 🌐 Sociais:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/d4ntz2408) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/d4ntz2408) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Rd4273051@gmail.com) 
 
 # 💻 Tech Stack:
