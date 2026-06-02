@@ -2,7 +2,7 @@
 
 
 # 💫 About Me:
-🔭 Hoje eu trabalho: com nada<br>- 🌱 Estou aprendendo: html, css, sql (banco de dados em geral), portugol e c++<br>- 😄 Pronomes: ele/dele<br>- ⚡ curiosidades: faço curso de informática para internet na escola técnica da etecvav!
+🔭 Hoje eu trabalho: com nada<br>- 🌱 Estou aprendendo: html, css, sql (banco de dados em geral) e c++<br>- 😄 Pronomes: ele/dele<br>- ⚡ curiosidades: faço curso de informática para internet na escola técnica da etecvav!
 
 
 ## 🌐 Socials:
