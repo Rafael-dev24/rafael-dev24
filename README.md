@@ -1,5 +1,49 @@
-# 💫 About Me:
-🔭 Hoje eu trabalho: com nada<br>- 🌱 Estou aprendendo: html, css, sql (banco de dados em geral), c++ e python <br>- 😄 Pronomes: ele/dele<br>- ⚡ curiosidades: faço curso de informática para internet na escola técnica da etecvav!
+# Olá! Eu sou Rafael Dantas 👋
+
+💻 Estudante de **Técnico em Desenvolvimento de Sistemas** na ETECVAV – Vasco Antônio Venchiarutti.
+
+Sou estudante de programação e tenho interesse em desenvolvimento de software, principalmente na área de desenvolvimento web. Estou constantemente aprendendo novas tecnologias e colocando meus conhecimentos em prática por meio de projetos.
+
+---
+
+## 🚀 Tecnologias e ferramentas
+
+### Front-end
+- HTML5
+- CSS3
+- JavaScript
+
+### Back-end
+- Python
+
+### Banco de dados
+- SQL
+
+### Ferramentas
+- Git
+- GitHub
+- Visual Studio Code
+
+---
+
+## 📚 Atualmente estudando
+
+- JavaScript
+- Desenvolvimento Web
+- Programação Orientada a Objetos (POO)
+- Banco de Dados
+
+---
+
+## 🎯 Objetivos
+
+Evoluir constantemente como desenvolvedor, aprimorar minhas habilidades técnicas e construir projetos que contribuam para meu aprendizado e desenvolvimento profissional.
+
+---
+
+## 📫 Contato
+
+- GitHub: [@rafael-dev24](https://github.com/rafael-dev24)
 
 
 # 💻 Tech Stack:
